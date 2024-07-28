@@ -1,5 +1,5 @@
 import conf from "../assets/conf/conf";
-import { Client, Account, ID } form "appwirte";
+import { Client, Account, ID } from 'appwrite'
 
 
 export class AuthService {
